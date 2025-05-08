@@ -1,0 +1,9 @@
+[submodule "libs/libft"]
+	path = libs/libft
+	url = git@github.com:FonWasH/libft.git
+[submodule "libs/mlibx"]
+	path = libs/mlibx
+	url = git@github.com:FonWasH/minilibx-linux.git
+[submodule "libs/mliba"]
+	path = libs/mliba
+	url = git@github.com:FonWasH/miniliba-linux.git
